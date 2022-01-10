@@ -1,6 +1,7 @@
 /*
  * Nama    : Fauzyah Hadirahma
  * NPM     : 20191310070
+ * Tugas   : AlgoritmaSinCos
  */
 package AlgoritmaSinCos;
 
