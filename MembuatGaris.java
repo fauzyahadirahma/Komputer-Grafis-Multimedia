@@ -1,6 +1,7 @@
 /*
  * Nama    : Fauzyah Hadirahma
  * NPM     : 20191310070
+ * Tugas   : Komputer Grafis Multimedia - Membuat Garis
  */
 import java.applet.Applet;
 import java.awt.Graphics;
