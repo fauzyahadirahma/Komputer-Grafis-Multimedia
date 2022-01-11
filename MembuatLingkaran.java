@@ -1,6 +1,7 @@
 /*
  * Nama    : Fauzyah Hadirahma
  * NPM     : 20191310070
+ * Tugas   : Komputer Grafis Multimedia - Membuat Lingkaran
  */
 
 import java.applet.Applet;
